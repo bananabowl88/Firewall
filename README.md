@@ -11,3 +11,9 @@ I'm very interested in the Data team, but I am also extremely open to working wi
 
 
 
+To run the tests: 
+pytest tester.py
+
+To install pytest:
+https://docs.pytest.org/en/latest/getting-started.html
+ 
