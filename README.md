@@ -7,9 +7,6 @@ This implementation uses an interval tree to easily match the inputted port and 
 
 I ran my tests using the pytest command with tester.py. My first five tests mimic the examples given in the prompt given the example file in the prompt. My next two tests are testing the edge cases of the third rule by inputting the IP Address value at both the lower and upper bound of the range specified in the third rule, which should return true. The next two tests similarly test the edge case for the second rule of my file by inputting the port value as both the lower and upper bound of the range in the second rule. The next four tests match rule one except for one field (either direction, protocol, IP address, or port) so they will return false.
 
-I'm very interested in the Data team, but I am also extremely open to working with both the platform team and policy team!
-
-
 
 To run the tests: 
 pytest tester.py
